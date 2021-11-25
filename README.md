@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @madhusudananthati
-- 👀 I’m passionate frontend developer
-- 🌱 I’m currently working on angular and wordpress ...
-- 💞️ I’m looking to collaborate on frontend development
+- 👀 DevOps Engineer
 - 📫 How to reach me madhusudananthati@gamil.com
 
 <!---
