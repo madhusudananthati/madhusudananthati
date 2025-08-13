@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amsgoud
-- 👀 DevOps Engineer
+- 👀 Cloud DevOps Architect
 - 📫 How to reach me madhusudananthati@gamil.com
 
 <!---
